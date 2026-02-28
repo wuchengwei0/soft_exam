@@ -1,14 +1,14 @@
 ---
-created: 2026-02-28T13:41
-updated: 2026-02-28T15:23
+title: "{{title}}"
+author: Wu,Chengwei
+tags:
+  - git
+  - commit
+created: 2026-02-28T22:51:00
+updated: 2026-02-28T22:57
+icon: MyiconsChartPerspectiveMatte
 ---
-# 更新日志
-
-所有重要的项目更改都将记录在此文件中。
-
-格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)，
-并且本项目遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
-
+# UpdateLog
 ## [未发布]
 
 ### 新增
@@ -17,8 +17,6 @@ updated: 2026-02-28T15:23
 - 创建Obsidian模板目录结构
 - 添加README模板文件
 - 设置项目基础架构
-- 优化README.md结构，分离更新日志到独立文件
-
 ### 计划中
 - [ ] 历年真题及解析整理
 - [ ] 论文写作模板完善
@@ -27,44 +25,21 @@ updated: 2026-02-28T15:23
 - [ ] 在线阅读功能开发
 - [ ] GitHub Actions自动同步到Gitee
 
-## [0.1.0] - 2026-02-28
 
-### 新增
+## 更新日志
+
+所有重要的项目更改都将记录在此文件中。
+格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)，并且本项目遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
+
+### [0.0.1] - 2026-02-28
+
+#### 新增
 - 🎉 项目首次发布
 - 📚 软考高级文档汇总项目架构设计
 - 📝 Obsidian模板系统
 - 🔧 项目规范和贡献指南
 - 📄 MIT开源协议
 - 📋 优化README.md结构，分离更新日志
-
-### 技术栈
-- Markdown文档
-- Git版本控制
-- Obsidian知识管理
-- Gitee代码托管
-
-### 文档结构
-```
-soft_exam/
-├── README.md                    # 项目说明
-├── CONTRIBUTING.md               # 贡献指南
-├── LICENSE                      # 开源协议
-├── UpdateLog.md                 # 更新日志
-├── docs/                        # 文档目录
-│   ├── templates/                # Obsidian模板
-│   └── project_design.md         # 项目设计文档
-├── 0. 备考指南/                # 备考前基础指导
-├── 1. 视频/                    # 视频教程
-├── 2. 教材/                    # 教材资料
-├── 3. 历年真题/                # 真题练习
-├── 4. 论文/                    # 论文写作
-├── 5. 讲义/                    # 讲义资料
-├── 6. 知识点梳理/              # 知识点总结
-└── 7. 考试准备/                # 考试前准备
-```
-
----
-
 ## 版本说明
 
 - **主版本号**：不兼容的API修改
@@ -75,4 +50,4 @@ soft_exam/
 
 感谢所有为项目做出贡献的开发者！
 
-- [@wuchengwei0](https://gitee.com/wuchengwei0) - 项目创建者和维护者
+- [@wuchengwei0](https://gitee.com/wuchengwei) - 项目创建者和维护者

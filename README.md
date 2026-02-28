@@ -3,8 +3,8 @@ title: README
 author: Wu,Chengwei
 tags:
   - README
-created: "{{date:YYYY-MM-DD HH:mm}}"
-updated: 2026-02-28T21:17
+created: 2026-02-28T21:36:00
+updated: 2026-02-28T22:54
 icon: MyiconsChartPerspectiveMatte
 ---
 
@@ -51,6 +51,27 @@ icon: MyiconsChartPerspectiveMatte
 | **references** | 参考文档    | PDF、Word、标准规范、电子书 | 深入学习  |
 | **tools**      | 工具脚本    | 辅助工具、自动化脚本        | 效率提升  |
 | **docs**       | 项目文档    | 设计文档、学习指南、考试信息    | 项目维护  |
+
+### 文档结构
+```
+soft_exam/
+├── README.md                    # 项目说明
+├── CONTRIBUTING.md               # 贡献指南
+├── LICENSE                      # 开源协议
+├── UpdateLog.md                 # 更新日志
+├── docs/                        # 文档目录
+│   ├── templates/                # Obsidian模板
+│   └── project_design.md         # 项目设计文档
+├── 0. 备考指南/                # 备考前基础指导
+├── 1. 视频/                    # 视频教程
+├── 2. 教材/                    # 教材资料
+├── 3. 历年真题/                # 真题练习
+├── 4. 论文/                    # 论文写作
+├── 5. 讲义/                    # 讲义资料
+├── 6. 知识点梳理/              # 知识点总结
+└── 7. 考试准备/                # 考试前准备
+```
+
 
 ## 🚀 快速开始
 
@@ -169,7 +190,3 @@ icon: MyiconsChartPerspectiveMatte
 - 📢 **推荐分享**：推荐给其他备考者
 - 💡 **反馈建议**：提出改进建议
 - 🤝 **参与贡献**：贡献内容或代码
-
----
-
-*最后更新：2024年XX月XX日*

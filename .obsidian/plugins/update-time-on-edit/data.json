@@ -13,13 +13,12 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "软考高级文档汇总项目-需求设计文档.md": "37b2c6de6cc86ef8739d69ad1ab973a7e0f7dfc69074bd281f0d50886400b3be",
-    "README.md": "f05973c874797793819e9a3df4fb4104910de5b60a5c48a56e679ddab0382e4d",
+    "README.md": "cc3de134ebef31b28581fc721630257d183d3179467ac2ebf380271aeb4ae61c",
     "0. 备考指南【软考常识+思想准备】/README.md": "33c071dfeb562aad05d62daf91febf73130ad1319c5e4e660c7f5fb45e4a8a2e",
-    "UpdateLog.md": "133d4e2f2610c37d04ce9aa824736b194b2570a2bd7f82681537eefe65cb5d50",
+    "UpdateLog.md": "8518d677c84f1a73428d286f4df3c4e8aadeff06af742361e052bf26372d3a2e",
     "docs/templates/README_Template.md": "aa16d140e0729e5f5e43ad5aa6b807dff8bcc28260542ff9606e99fd1319151e",
     "docs/templates/Note_Template.md": "fe562d101c7cbf50c9cea737074db3db2eeede38d31edaa0bfd58b41b0879165",
-    "CONTRIBUTING.md": "650dce7ac88b4849bffa3d62c9608691d637de9d52fa07c4da187d2bc00470b8",
-    "项目规范.md": "8719d83c6a05658dad62e662b0da68ac223ee9c7c595acc25d5f1fb587bea4bc",
+    "项目规范.md": "00018d4427522354239c0ad58f8a45564224a57c2a9c68f2e252ed2b42a3f414",
     "1. 视频【最新全套视频】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
     "2. 教材【最新教材+大纲+指导】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
     "3. 历年真题及解析【2009-2025】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
@@ -34,6 +33,7 @@
     "tools/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
     "scripts/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112",
     "references/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112",
-    "docs/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112"
+    "docs/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112",
+    "贡献指南.md": "4ae85b320ee1cf0e01de4244aaa27cb81edb4680bfd129cf52de2c37bae25deb"
   }
 }
