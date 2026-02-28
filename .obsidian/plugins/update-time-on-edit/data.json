@@ -4,16 +4,36 @@
   "headerUpdated": "updated",
   "headerCreated": "created",
   "minMinutesBetweenSaves": 1,
-  "ignoreGlobalFolder": [],
-  "ignoreCreatedFolder": [],
+  "ignoreGlobalFolder": [
+    "docs/templates"
+  ],
+  "ignoreCreatedFolder": [
+    "docs/templates"
+  ],
   "enableExperimentalHash": false,
   "fileHashMap": {
     "软考高级文档汇总项目-需求设计文档.md": "37b2c6de6cc86ef8739d69ad1ab973a7e0f7dfc69074bd281f0d50886400b3be",
-    "specifications.md": "4ddb324fb3a29ecce39ae3b45d99f92669acd9597e54a768de3b908ad98144e4",
     "README.md": "f05973c874797793819e9a3df4fb4104910de5b60a5c48a56e679ddab0382e4d",
-    "docs/templates/README.md": "53cd0f1e07fc2b324d2af542c909e84f734ef6b849e0e0b38826e93872b38eb6",
-    "0. 备考指南【软考常识+思想准备】/README.md": "ca88124b603b4a586d0c130b150c63e5c75a5680d438b85da890aab29015a4d4",
+    "0. 备考指南【软考常识+思想准备】/README.md": "33c071dfeb562aad05d62daf91febf73130ad1319c5e4e660c7f5fb45e4a8a2e",
     "UpdateLog.md": "133d4e2f2610c37d04ce9aa824736b194b2570a2bd7f82681537eefe65cb5d50",
-    "5. 讲义/test.md": "81de384bf4200cfadc360bddb01b2dba4a92130509917c7cc6061d419817d1ab"
+    "docs/templates/README_Template.md": "aa16d140e0729e5f5e43ad5aa6b807dff8bcc28260542ff9606e99fd1319151e",
+    "docs/templates/Note_Template.md": "fe562d101c7cbf50c9cea737074db3db2eeede38d31edaa0bfd58b41b0879165",
+    "CONTRIBUTING.md": "650dce7ac88b4849bffa3d62c9608691d637de9d52fa07c4da187d2bc00470b8",
+    "项目规范.md": "8719d83c6a05658dad62e662b0da68ac223ee9c7c595acc25d5f1fb587bea4bc",
+    "1. 视频【最新全套视频】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
+    "2. 教材【最新教材+大纲+指导】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
+    "3. 历年真题及解析【2009-2025】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
+    "4. 论文【真题范文+模板】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
+    "5. 讲义/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
+    "6. 知识点梳理/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
+    "7. 考试准备/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
+    "7.1 其他备考资料/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
+    "7.2 备考心得/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
+    "7.3 刷题软件/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
+    "7.4 机考系统操作指南/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
+    "tools/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
+    "scripts/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112",
+    "references/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112",
+    "docs/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112"
   }
 }

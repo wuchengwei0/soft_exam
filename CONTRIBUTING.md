@@ -1,3 +1,7 @@
+---
+created: 2026-02-28T13:37
+updated: 2026-02-28T21:28
+---
 # 贡献指南
 
 欢迎为软考高级文档汇总项目做出贡献！
@@ -9,7 +13,7 @@
 
 ### 2. 克隆仓库
 ```bash
-git clone https://gitee.com/你的用户名/soft_exam.git
+git clone https://gitee.com/wuchengwei0/soft_exam.git
 cd soft_exam
 ```
 

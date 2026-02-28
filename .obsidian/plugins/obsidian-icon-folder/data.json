@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "MyiconsTrophyPerspectiveMatte",
+      "RaRabbit",
       "IbBell",
       "MyiconsChartPerspectiveMatte"
     ],
@@ -31,10 +33,64 @@
     "debugMode": true,
     "useInternalPlugins": true
   },
-  "docs/templates/README.md": {
+  "README.md": {
     "iconName": "MyiconsChartPerspectiveMatte"
   },
-  "README.md": {
+  "docs/templates/README_Template.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "docs/templates/Note_Template.md": {
+    "iconName": "MyiconsTrophyPerspectiveMatte"
+  },
+  "项目规范.md": {
+    "iconName": "MyiconsTrophyPerspectiveMatte"
+  },
+  "0. 备考指南【软考常识+思想准备】/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "1. 视频【最新全套视频】/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "2. 教材【最新教材+大纲+指导】/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "3. 历年真题及解析【2009-2025】/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "4. 论文【真题范文+模板】/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "5. 讲义/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "6. 知识点梳理/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "7. 考试准备/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "7.1 其他备考资料/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "7.2 备考心得/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "7.3 刷题软件/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "7.4 机考系统操作指南/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "tools/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "scripts/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "references/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "docs/README.md": {
     "iconName": "MyiconsChartPerspectiveMatte"
   }
 }
