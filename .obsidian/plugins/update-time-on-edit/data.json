@@ -1,0 +1,17 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "软考高级文档汇总项目-需求设计文档.md": "37b2c6de6cc86ef8739d69ad1ab973a7e0f7dfc69074bd281f0d50886400b3be",
+    "specifications.md": "4ddb324fb3a29ecce39ae3b45d99f92669acd9597e54a768de3b908ad98144e4",
+    "README.md": "f8d7b1b5df76c15121aaa61e8852fe421184a2aeb8d821de11749df4769e947a",
+    "docs/templates/README.md": "0a64f6dada6cd0aa9cef8e5e1d2b07bba9c489882ef4b4a2ab9f68d5f53387b9",
+    "0. 备考指南【软考常识+思想准备】/README.md": "ca88124b603b4a586d0c130b150c63e5c75a5680d438b85da890aab29015a4d4"
+  }
+}

@@ -1,0 +1,41 @@
+# Obsidian插件配置文件（包含敏感信息）
+# remotely-save插件配置包含Gitee访问令牌，需要忽略(不忽略Github push失败)
+.obsidian/plugins/remotely-save/
+# .obsidian/plugins/update-time-on-edit/
+
+# Obsidian工作区配置
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# 其他敏感配置文件
+*.key
+*.pem
+*.p12
+.env
+.env.local
+.env.*.local
+
+# 临时文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+logs/
+
+# 编译输出
+dist/
+build/
+node_modules/
+
+# IDE配置
+.vscode/settings.json
+.idea/
+
+# 系统文件
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
