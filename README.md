@@ -4,7 +4,7 @@ author: Wu,Chengwei
 tags:
   - README
 created: 2026-02-28T21:36:00
-updated: 2026-02-28T22:54
+updated: 2026-02-28T23:13
 icon: MyiconsChartPerspectiveMatte
 ---
 
@@ -177,7 +177,7 @@ soft_exam/
 
 ## � 更新日志
 
-详细的更新记录请查看：[� 更新日志](UpdateLog.md)
+详细的更新记录请查看：[� 更新日志](更新日志.md)
 
 ---
 
