@@ -1,11 +1,11 @@
 ---
-title: "{{title}}"
+title: test
 author: Wu,Chengwei
 tags:
-  - README
-created: "{{date:YYYY-MM-DD HH:mm}}"
-updated: 2026-02-28T16:05
-icon: MyiconsChartPerspectiveMatte
+  - test
+created: 2026-02-28 15:55
+updated: 2026-02-28T15:55
+icon: F
 ---
 
 # 目录名称
