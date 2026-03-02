@@ -18,7 +18,6 @@
     "docs/templates/README_Template.md": "aa16d140e0729e5f5e43ad5aa6b807dff8bcc28260542ff9606e99fd1319151e",
     "docs/templates/Note_Template.md": "fe562d101c7cbf50c9cea737074db3db2eeede38d31edaa0bfd58b41b0879165",
     "项目规范.md": "00018d4427522354239c0ad58f8a45564224a57c2a9c68f2e252ed2b42a3f414",
-    "1. 视频【最新全套视频】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
     "2. 教材【最新教材+大纲+指导】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
     "3. 历年真题及解析【2009-2025】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
     "4. 论文【真题范文+模板】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
@@ -36,9 +35,10 @@
     "贡献指南.md": "4ae85b320ee1cf0e01de4244aaa27cb81edb4680bfd129cf52de2c37bae25deb",
     "更新日志.md": "f717bb2a3aac1d2f366790add6876a8ed37766b77e4dfae7682d1997d380b036",
     "0. 备考指南【软考常识+思想准备】/软考常识.md": "54af0a116c851a6686133ae7044574728a9e83e68af76a297792f56b2c2631dc",
-    "1. 视频【最新全套视频】/1 高级资格 系统架构设计师.md": "df2e64f748752a4c72d53043b2aec92afd136040c8f5eca0326a6b9a3d1b4b02",
-    "1. 视频【最新全套视频】/1 高级资格 系统分析师.md": "f6587d6777e48ff09eb9368cae416c364903f6320c70e290d4ffcfbcda67f9a9",
-    "1. 视频【最新全套视频】/2 中级资格 信息安全工程师.md": "da76426a01c0f7ed6e0d385a526a03aaf8e81f7762c40f073b49b3a5eb64db52",
-    "1. 视频【最新全套视频】/3 初级资格 网络管理员.md": "5b5293068767401d6d08b0843d16473523cb51040f3efbf5a35626087ea1d957"
+    "1. 视频【最新全套视频+Blog】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
+    "1. 视频【最新全套视频+Blog】/1 高级资格 系统架构设计师.md": "22170ee22da351acaabe61ae4177468dd21a8db4e576ccad8b01773bd148e55d",
+    "1. 视频【最新全套视频+Blog】/1 高级资格 系统分析师.md": "f6587d6777e48ff09eb9368cae416c364903f6320c70e290d4ffcfbcda67f9a9",
+    "1. 视频【最新全套视频+Blog】/2 中级资格 信息安全工程师.md": "da76426a01c0f7ed6e0d385a526a03aaf8e81f7762c40f073b49b3a5eb64db52",
+    "1. 视频【最新全套视频+Blog】/3 初级资格 网络管理员.md": "5b5293068767401d6d08b0843d16473523cb51040f3efbf5a35626087ea1d957"
   }
 }

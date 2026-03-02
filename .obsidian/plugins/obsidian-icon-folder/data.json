@@ -48,9 +48,6 @@
   "0. 备考指南【软考常识+思想准备】/README.md": {
     "iconName": "MyiconsChartPerspectiveMatte"
   },
-  "1. 视频【最新全套视频】/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
   "2. 教材【最新教材+大纲+指导】/README.md": {
     "iconName": "MyiconsChartPerspectiveMatte"
   },
@@ -99,16 +96,19 @@
   "0. 备考指南【软考常识+思想准备】/软考常识.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
   },
-  "1. 视频【最新全套视频】/1 高级资格 系统架构设计师.md": {
+  "1. 视频【最新全套视频+Blog】/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "1. 视频【最新全套视频+Blog】/1 高级资格 系统架构设计师.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
   },
-  "1. 视频【最新全套视频】/1 高级资格 系统分析师.md": {
+  "1. 视频【最新全套视频+Blog】/1 高级资格 系统分析师.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
   },
-  "1. 视频【最新全套视频】/2 中级资格 信息安全工程师.md": {
+  "1. 视频【最新全套视频+Blog】/2 中级资格 信息安全工程师.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
   },
-  "1. 视频【最新全套视频】/3 初级资格 网络管理员.md": {
+  "1. 视频【最新全套视频+Blog】/3 初级资格 网络管理员.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
   }
 }
