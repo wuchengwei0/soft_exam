@@ -12,30 +12,8 @@
   ],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "软考高级文档汇总项目-需求设计文档.md": "37b2c6de6cc86ef8739d69ad1ab973a7e0f7dfc69074bd281f0d50886400b3be",
     "docs/templates/README_Template.md": "aa16d140e0729e5f5e43ad5aa6b807dff8bcc28260542ff9606e99fd1319151e",
     "docs/templates/Note_Template.md": "fe562d101c7cbf50c9cea737074db3db2eeede38d31edaa0bfd58b41b0879165",
-    "项目规范.md": "00018d4427522354239c0ad58f8a45564224a57c2a9c68f2e252ed2b42a3f414",
-    "tools/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
-    "scripts/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112",
-    "references/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112",
-    "docs/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112",
-    "贡献指南.md": "4ae85b320ee1cf0e01de4244aaa27cb81edb4680bfd129cf52de2c37bae25deb",
-    "更新日志.md": "5c2e22e4288df64a4bc53ae8468ca9019ef6c64fba9aacc4b63fe3f59f692cbd",
-    "test.md": "412d7bb6b68b227dbfca569005c26df368a144897c335b8237837002806b8c5c",
-    "5_讲义/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
-    "6_知识点梳理/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
-    "6_知识点梳理/1_高级资格 系统架构师 01.md": "aa44b552816626c0b50fb52672e4045af82319dd9acd8d6db5a6a246a9b536f3",
-    "7_考试准备/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
-    "7_1其他备考资料/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
-    "7_2_备考心得/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
-    "7_4_机考系统操作指南/README.md": "f13271a519f80e7c6337618af6537ee700d230f2c7273809530a1f6ae496de60",
-    "0_备考指南_软考常识_思想准备/思想准备.md": "a7eec62d3ed55163e0e1d78febfc147a2e4059964b12675e1ce8785c5da4d7ed",
-    "0_备考指南_软考常识_思想准备/软考常识.md": "9e654a4e9149287e1938e0222710ae937a166147f0497564b73781b1ddd0209b",
-    "0_备考指南_软考常识_思想准备/高级资格_系统架构设计师.md": "f2acf563b6582d4ae63044bad1f1846ddff68ec13ea28cdc0bc7d9c22b81c79f",
-    "3_历年真题及解析【2009-2025】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
-    "3_历年真题及解析【2009-2025】/2_教材_最新教材_大纲_指导/README.md": "d04d7ca919c4003b55fced76bf24b8c743b9eb4f8d658811cffc34ef1f583bae",
-    "3_历年真题及解析【2009-2025】/4_论文【真题范文+模板】/README.md": "c14888cf8965d3c3979f1b48877b32f54a87707b249d13ba1070ff81a313d1a0",
-    "README1.md": "7d00b1e3d1854a6a2d21ebaa7bcc1cb3958cc975b0e75fa27e6c0a64e41a818b"
+    "docs/README.md": "d22da5788ac98a1a527d755531f2f7c816b8747534b3c909cfc5ce2990a94112"
   }
 }
