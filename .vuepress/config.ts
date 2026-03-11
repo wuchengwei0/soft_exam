@@ -4,7 +4,7 @@ import markdownItObsidianCallouts from "markdown-it-obsidian-callouts";
 import wikilinks from "@shdwcat/markdown-it-wikilinks";
 
 export default defineUserConfig({
-  base: "/soft_exam",
+  base: "/soft_exam/",
 
   lang: "zh-CN",
   title: "文档演示",

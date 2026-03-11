@@ -4,10 +4,17 @@ name: 部署文档
 on:
   push:
     branches:
-      - main
+      - base  
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+  
+# 允许一个并发部署
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   deploy-gh-pages:
@@ -19,7 +26,6 @@ jobs:
           fetch-depth: 0
           # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
-
 
 
       - name: 设置 Node.js
