@@ -6,13 +6,13 @@ icon: house
 welcome: 👋 你好，我是
 name: 江户川柯南
 avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
-
 titles:
   - 天才少年侦探
   - 小兰的青梅竹马
   - 黑衣组织的最大对手
-
 footer: false
+created: 2026-03-11T22:40
+updated: 2026-03-11T22:40
 ---
 
 ## 介绍
