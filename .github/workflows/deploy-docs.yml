@@ -8,8 +8,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
   
 # 允许一个并发部署
 concurrency:
@@ -53,5 +51,5 @@ jobs:
         with:
           # 部署文档
           branch: online
-          folder: .vuepress\dist #打包后的目录
+          folder: .vuepress/dist #打包后的目录
           clean: true  # 清理旧文件
