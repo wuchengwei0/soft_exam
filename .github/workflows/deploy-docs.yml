@@ -42,7 +42,9 @@ jobs:
 
       - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
+        env:
+            GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}} # github上配置的 secrets名称为 ACCESS_TOKEN
         with:
           # 部署文档
-          branch: gh-pages
-          folder: src\.vuepress\dist
+          branch: online
+          folder: .vuepress\dist #打包后的目录
