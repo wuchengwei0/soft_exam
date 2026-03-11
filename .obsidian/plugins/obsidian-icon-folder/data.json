@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "MyiconsArrowsPerspectiveMatte",
       "MyiconsTrophyPerspectiveMatte",
       "RaRabbit",
       "IbBell",
@@ -33,9 +34,6 @@
     "debugMode": true,
     "useInternalPlugins": true
   },
-  "README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
   "docs/templates/README_Template.md": {
     "iconName": "MyiconsChartPerspectiveMatte"
   },
@@ -44,39 +42,6 @@
   },
   "项目规范.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
-  },
-  "0. 备考指南【软考常识+思想准备】/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "2. 教材【最新教材+大纲+指导】/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "3. 历年真题及解析【2009-2025】/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "4. 论文【真题范文+模板】/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "5. 讲义/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "6. 知识点梳理/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "7. 考试准备/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "7.1 其他备考资料/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "7.2 备考心得/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "7.3 刷题软件/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
-  },
-  "7.4 机考系统操作指南/README.md": {
-    "iconName": "MyiconsChartPerspectiveMatte"
   },
   "tools/README.md": {
     "iconName": "MyiconsChartPerspectiveMatte"
@@ -93,22 +58,64 @@
   "更新日志.md": {
     "iconName": "MyiconsChartPerspectiveMatte"
   },
-  "0. 备考指南【软考常识+思想准备】/软考常识.md": {
-    "iconName": "MyiconsTrophyPerspectiveMatte"
-  },
-  "1. 视频【最新全套视频+Blog】/README.md": {
+  "5_讲义/README.md": {
     "iconName": "MyiconsChartPerspectiveMatte"
   },
-  "1. 视频【最新全套视频+Blog】/1 高级资格 系统架构设计师.md": {
+  "6_知识点梳理/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "6_知识点梳理/1_高级资格 系统架构师 01.md": {
+    "iconName": "MyiconsArrowsPerspectiveMatte"
+  },
+  "7_考试准备/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "7_1其他备考资料/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "7_2_备考心得/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "7_4_机考系统操作指南/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "7_3_刷题软件/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "0_备考指南_软考常识_思想准备/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "0_备考指南_软考常识_思想准备/软考常识.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
   },
-  "1. 视频【最新全套视频+Blog】/1 高级资格 系统分析师.md": {
+  "0_备考指南_软考常识_思想准备/高级资格_系统架构设计师.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
   },
-  "1. 视频【最新全套视频+Blog】/2 中级资格 信息安全工程师.md": {
+  "3_历年真题及解析【2009-2025】/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "3_历年真题及解析【2009-2025】/2_教材_最新教材_大纲_指导/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "3_历年真题及解析【2009-2025】/4_论文【真题范文+模板】/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "video/1_高级资格 系统分析师.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
   },
-  "1. 视频【最新全套视频+Blog】/3 初级资格 网络管理员.md": {
+  "video/1_高级资格 系统架构设计师.md": {
     "iconName": "MyiconsTrophyPerspectiveMatte"
+  },
+  "video/2_中级资格 信息安全工程师.md": {
+    "iconName": "MyiconsTrophyPerspectiveMatte"
+  },
+  "video/3_初级资格 网络管理员.md": {
+    "iconName": "MyiconsTrophyPerspectiveMatte"
+  },
+  "video/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "README1.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
   }
 }

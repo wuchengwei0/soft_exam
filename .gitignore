@@ -7,6 +7,12 @@
 .obsidian/workspace.json
 .obsidian/graph.json
 
+node_modules/
+.vuepress/.cache/
+.vuepress/.temp/
+.vuepress/dist/
+
+
 # 其他敏感配置文件
 *.key
 *.pem
