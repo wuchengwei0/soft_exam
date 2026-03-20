@@ -50,6 +50,10 @@ jobs:
             GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}} # github上配置的 secrets名称为 ACCESS_TOKEN
         with:
           # 部署文档
-          branch: online
+          branch: online  # 只放构建后的静态站点文件（发布用）
           folder: .vuepress/dist #打包后的目录
           clean: true  # 清理旧文件
+
+
+# base 分支当作“源码分支”（写文档、写配置的地方）
+# online 分支当作“发布分支”（只放构建后的静态文件）

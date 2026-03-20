@@ -45,5 +45,35 @@
   },
   "README1.md": {
     "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "scripts/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "references/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "tools/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "video/1_高级资格 系统分析师.md": {
+    "iconName": "MyiconsTrophyPerspectiveMatte"
+  },
+  "video/1_高级资格 系统架构设计师.md": {
+    "iconName": "MyiconsTrophyPerspectiveMatte"
+  },
+  "video/2_中级资格 信息安全工程师.md": {
+    "iconName": "MyiconsTrophyPerspectiveMatte"
+  },
+  "video/3_初级资格 网络管理员.md": {
+    "iconName": "MyiconsTrophyPerspectiveMatte"
+  },
+  "video/README.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "更新日志.md": {
+    "iconName": "MyiconsChartPerspectiveMatte"
+  },
+  "项目规范.md": {
+    "iconName": "MyiconsTrophyPerspectiveMatte"
   }
 }
